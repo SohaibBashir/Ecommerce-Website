@@ -1,0 +1,114 @@
+{
+    "littleGirls":[
+        {
+            "title":"Full Skirt Suit",
+            "pricing":"From $98",
+            "imgurl":"jsonimages/baby5.jpg"
+            
+        },
+        {
+            "title":"Baby Frock",
+            "pricing":"From $550",
+            "imgurl":"jsonimages/baby1.jpg"
+        },
+        {
+            "title":"Crop Top Suit",
+            "pricing":"From $78",
+            "imgurl":"jsonimages/baby3.jpg"
+        },
+        {
+            "title":"Baby Top",
+            "pricing":"From $700",
+            "imgurl":"jsonimages/baby6.jpg"
+        }
+       
+    ],
+
+    "Boy":[
+        {
+            "title":"Adidas Branded t Shirt",
+            "pricing":"From $98",
+            "imgurl":"jsonimages/boy1.jpg"
+            
+        },
+        {
+            "title":"Nike Dri Fit Branded T-Shirt",
+            "pricing":"From $550",
+            "imgurl":"jsonimages/boy2.jpg"
+        },
+        {
+            "title":"Adidas Branded Sleeveless",
+            "pricing":"From $78",
+            "imgurl":"jsonimages/boy3.jpg"
+        },
+        {
+            "title":"Nike Dri Fit Branded T-Shirt",
+            "pricing":"From $700",
+            "imgurl":"jsonimages/boy4.jpg"
+        }
+       
+    ],
+
+    "men":[
+        {
+            "title":"Jack & Jones Branded T Shirt",
+            "pricing":"From $98",
+            "imgurl":"jsonimages/men1.jpg"
+            
+        },
+        {
+            "title":"Denim Casual Black",
+            "pricing":"From $550",
+            "imgurl":"jsonimages/men2.jpg"
+        },
+        {
+            "title":"Pull & Bear Branded Shorts",
+            "pricing":"From $78",
+            "imgurl":"jsonimages/men3.jpg"
+        },
+        {
+            "title":"Aeropostale Branded Hoodie",
+            "pricing":"From $700",
+            "imgurl":"jsonimages/men4.jpg"
+        }
+       
+    ],
+    "women":[
+        {
+            "title":"Nike Dri Fit Sport T Shirt",
+            "pricing":"From $98",
+            "imgurl":"jsonimages/women1.jpg"
+            
+        },
+        {
+            "title":"Luo Luo Branded jacket",
+            "pricing":"From $550",
+            "imgurl":"jsonimages/women2.jpg"
+        },
+        {
+            "title":"Puma Branded Yellow Zipper",
+            "pricing":"From $78",
+            "imgurl":"jsonimages/women3.jpg"
+        },
+        {
+            "title":"Moodo Branded Brown Cargo",
+            "pricing":"From $700",
+            "imgurl":"jsonimages/women4.jpg"
+        }
+       
+    ],
+
+    "galleryimage":[
+        {
+            "imgurl":"images/gallery.jpg"
+        }
+    ],
+
+    "thriftimage":[
+        {
+            "imgurl":"images/thrift.jpg"
+        }
+    ]
+
+
+}
